@@ -1,0 +1,31 @@
+Acme Corp Employee Handbook (Sample Excerpt)
+
+1. Refund Policy
+Customers may request a full refund within 30 days of purchase, provided the
+product is unused and in its original packaging. Refund requests after 30
+days but within 90 days are eligible for store credit only. No refunds are
+issued after 90 days from the date of purchase. Digital products are
+non-refundable once downloaded.
+
+2. Remote Work Policy
+Employees may work remotely up to 3 days per week with manager approval.
+Employees must be available on core hours (10 AM - 4 PM local time) regardless
+of work location. Fully remote arrangements require VP-level sign-off and are
+reviewed every 6 months.
+
+3. Leave Policy
+Full-time employees accrue 1.5 days of paid time off per month, capped at 24
+days per year. Unused leave up to 5 days may be carried over to the next
+calendar year. Sick leave is tracked separately and does not count against PTO.
+
+4. Data Security Policy
+All employees must enable multi-factor authentication (MFA) on company
+accounts. Laptops must have full-disk encryption enabled. Any suspected
+security incident must be reported to the security team within 1 hour of
+discovery via the #security-incidents Slack channel or security@acmecorp.com.
+
+5. Expense Reimbursement
+Employees must submit expense reports within 30 days of incurring the
+expense. Reports submitted after 30 days require director approval. Meals
+during business travel are reimbursed up to $75/day domestically and
+$100/day internationally.
